@@ -1,1 +1,5 @@
-# exploring models in biology
+# Exploring models in biological systems
+
+To the students of MIT-WPU who have been given this link to follow:
+
+Don't panic. As I understand your mathemetical background to be of varying nature, I will try to go over the basics if and when necessary during the talk. I have designed this set of notebooks to be an aid in understanding certain themes in nonlinear dynamics as it rears its head in models of biological systems. The codes and maths are geared towards generating figures that are going to be used heavily to shed light on the behaviours of models. We will hop from one figure to another and will mostly skip some codes and even equations if necessary to arrive at a grasp of certain geometric intuitions. You are more than welcome to run these notebooks before, during, and after the talk. The codes are written with Julia language and some symbolic computer algebra from python.
